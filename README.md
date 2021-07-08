@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Angela Stoddard, a mom of two young children. I used to have a career in botany and agriculture, in the field and in the laboratory. 
+- 👋 Hi, I’m Angela Stoddard, a mom of two young children. Until last year, I worked in botany and agriculture - in the field and in the laboratory. 
 - 👀 I’m interested in web and mobile applications.
-- 🌱 I’m currently learning the very begining basics of programming (HTML, CSS, Python, C - and all of these different workspaces).
+- 🌱 I’m currently learning the very begining basics of programming (HTML, CSS, Python, Javascript, C - and all of the other primary developer tools).
 - 💞️ I’m looking to collaborate on web applications, or anything that will be appropriate to help me grow.
 - 📫 Reach me at angela.haugen.stoddard@gmail.com.
 
