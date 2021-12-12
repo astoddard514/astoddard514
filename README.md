@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on web applications, or anything that will be appropriate to help me grow or make an impact.
 - 🍀 Wish me luck! Send ⚡flow.
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!---
 astoddard514/astoddard514 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
