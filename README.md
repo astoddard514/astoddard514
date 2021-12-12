@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on web applications, or anything that will be appropriate to help me grow or make an impact.
 - 🍀 Wish me luck! Send ⚡flow.
 
-START_SECTION:waka
-END_SECTION:waka
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=astoddard514&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
