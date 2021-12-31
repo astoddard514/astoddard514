@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web applications, or anything that will be appropriate to help me grow or make an impact.
 - 🍀 Wish me luck! Send ⚡flow.
 
-...
+---
 
 <img src="https://wakatime-languages-pie-svg.vercel.app/svg?username=astoddard514&uuid=b43d46f8-9dfb-4dd1-a8a7-c9fe6a5374dc"/>
 
