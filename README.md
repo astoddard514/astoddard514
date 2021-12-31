@@ -6,7 +6,7 @@
 
 ---
 
-{<img src="https://wakatime.com/badge/astoddard514/bdbc1621-4e8a-4f3f-a2c6-be2428c23f14.svg" alt="wakatime" />}[https://wakatime.com/@bdbc1621-4e8a-4f3f-a2c6-be2428c23f14]
+<img src="https://wakatime.com/badge/astoddard514/bdbc1621-4e8a-4f3f-a2c6-be2428c23f14"/>
 
 ---
 
