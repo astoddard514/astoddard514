@@ -6,9 +6,7 @@
 
 ---
 
-<img src="https://wakatime.com/badge/user/bdbc1621-4e8a-4f3f-a2c6-be2428c23f14.svg"/>
-
----
+<div align="center"><img src="https://wakatime.com/badge/user/bdbc1621-4e8a-4f3f-a2c6-be2428c23f14.svg"/></div>
 
 <img src="https://wakatime-languages-pie-svg.vercel.app/svg?username=astoddard514&uuid=b43d46f8-9dfb-4dd1-a8a7-c9fe6a5374dc"/>
 
