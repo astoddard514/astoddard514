@@ -4,14 +4,4 @@
 - 💞️ I’m looking to collaborate on web applications, or anything that will be appropriate to help me grow or make an impact.
 - 🍀 Wish me luck! Send ⚡flow.
 
-<!--START_SECTION:waka-->
-```text
-Python     38 mins         ███████████████████▓░░░░░   79.18 % 
-Other      9 mins          █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
-```
-<!--END_SECTION:waka-->
-
-<!---
-astoddard514/astoddard514 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<figure><embed src="https://wakatime.com/share/@bdbc1621-4e8a-4f3f-a2c6-be2428c23f14/7f042de7-6da8-49b7-8854-8ffe51c893e5.svg"></embed></figure>
